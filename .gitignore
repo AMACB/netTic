@@ -1,0 +1,6 @@
+*.o
+*.out
+*.a
+cpplint.py
+.DS_Store
+tictac
